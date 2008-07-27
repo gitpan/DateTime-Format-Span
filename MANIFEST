@@ -1,0 +1,16 @@
+Build.PL
+Changes
+MANIFEST
+Makefile.PL
+README
+lib/DateTime/Format/Span.pm
+lib/DateTime/Format/Span/Locale.pm
+lib/DateTime/Format/Span/Locale/es.pm
+lib/DateTime/Format/Span/Locale/fr.pm
+lib/DateTime/Format/Span/Locale/pt.pm
+t/00.load.t
+t/01.methods.t
+t/perlcritic.t
+t/pod-coverage.t
+t/pod.t
+META.yml                                 Module meta-data (added by MakeMaker)
