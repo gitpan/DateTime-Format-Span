@@ -1,5 +1,9 @@
 Revision history for DateTime-Format-Span
 
+0.0.2  Mon Jul 28 22:02:11 2008
+    - added FAQ to POD
+    - make it so old Test::More's don't cause 'You tried to plan twice at t/01.methods.t line 11.'
+    
 0.0.1  Sun Mar 16 10:54:08 2008
        Initial release.
 
